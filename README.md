@@ -15,7 +15,7 @@ Course: Microcontroller and Interfacing (2EC701CC23)
 Team: Budania Niti Mahavir (23BEC026) & Vansh Champaneri (23BEC027)
 
 ## Key Project Deliverables
-1. Circuit Design & Simulation
+### 1. Circuit Design & Simulation
 The project circuit was designed and simulated in Proteus to verify the functionality before physical implementation. The circuit uses an AT89C51 microcontroller, an SG90 servo motor, and two buttons for controlling clockwise and anti-clockwise movement.
 
 Circuit Diagram: The circuit shows the microcontroller's pin connections for the servo motor and external buttons.
@@ -24,14 +24,14 @@ Pulse Width Modulation (PWM): The PWM signal is generated using Timer 0 of the 8
 
 Timer Calculation: The report includes detailed calculations for the timer values required to achieve the precise pulse widths for each target angle.
 
-## 2. Microcontroller Code
+### 2. Microcontroller Code
 The project includes code written in both 8051 Assembly and Arduino C to demonstrate versatility in embedded programming.
 
 Assembly Code: Provides a low-level, register-based implementation of the PWM generation and button-based control logic.
 
 Arduino C Code: Offers a higher-level approach to the same problem, showing an understanding of different development environments and libraries for microcontroller programming.
 
-## 3. Applications and Analysis
+### 3. Applications and Analysis
 The project report includes a comprehensive analysis of the system's performance, advantages, and limitations.
 
 Applications: Discussion of real-world applications in robotics, automation, medical equipment, and smart home devices.
